@@ -1,5 +1,5 @@
 Class WhatIsGit
 	def show
-		puts 'Git is difficult...'
+		puts 'Git is easy'
 	end
 end

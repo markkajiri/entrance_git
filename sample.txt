@@ -1,2 +1,2 @@
-��������Git�̃e�X�g���B
-Git�Ȃ�ĊȒP���I
+ただいまGitのテスト中。
+Gitなんて簡単さ！
